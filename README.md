@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-You can call me `Arctique`
+Call me `Arctique`
 
 ### Email me
 `cy.arctique@gmail.com`
