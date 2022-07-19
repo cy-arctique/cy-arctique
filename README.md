@@ -22,11 +22,11 @@ Call me `Arctique`
 ### Something are not important
 + I am a new type of migrant worker
 + The first proficient language was the Java
-+ Now transforming C-Plus-Plus
++ Now transforming C-Plus-Plus, Rust
 
-<code><img height="20" alt="react" src="https://github.com/cy-arctique/img/blob/main/readme/cpp.png"></code>
-<code><img height="20" width="20" alt="react" src="https://github.com/cy-arctique/img/blob/main/readme/java.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="rust" src="https://github.com/cy-arctique/img/blob/main/readme/rusticon.png"></code>
+<code><img height="20" alt="cpp" src="https://github.com/cy-arctique/img/blob/main/readme/cpp.png"></code>
+<code><img height="20" width="20" alt="java" src="https://github.com/cy-arctique/img/blob/main/readme/java.png"></code>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cy-arctique&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cy-arctique&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
