@@ -22,7 +22,7 @@ Call me `Arctique`
 ### Something are not important
 + I am a new type of migrant worker
 + The first proficient language was the Java
-+ Now transforming C-Plus-Plus, Rust
++ Now transforming C-Plus-Plus and Rust
 
 <code><img height="20" alt="rust" src="https://github.com/cy-arctique/img/blob/main/readme/rusticon.png"></code>
 <code><img height="20" alt="cpp" src="https://github.com/cy-arctique/img/blob/main/readme/cpp.png"></code>
