@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-Call me `Arctique`
+I am `Arctique`
 
 ### Email me
 `cy.arctique@gmail.com`
