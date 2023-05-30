@@ -1,33 +1,21 @@
-<!--
-**cy-arctique/cy-arctique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Arctique</h1>
+<h3 align="center">I am a new type of migrant worker</h3>
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cy-arctique&label=Profile%20views&color=0e75b6&style=flat" alt="cy-arctique" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cy-arctique" alt="cy-arctique" /></a> </p>
 
-### Hi there 👋
-I am `Arctique`
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-### Email me
-`cy.arctique@gmail.com`
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-### Something are not important
-+ I am a new type of migrant worker
-+ The first proficient language was the Java
-+ Will be a little C-Plus-Plus
-+ Rust amateurs
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
 
-<code><img height="20" alt="cpp" src="https://github.com/cy-arctique/img/blob/main/readme/cpp.png"></code>
-<code><img height="20" width="20" alt="java" src="https://github.com/cy-arctique/img/blob/main/readme/java.png"></code>
-<code><img height="20" alt="rust" src="https://github.com/cy-arctique/img/blob/main/readme/rusticon.png"></code>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cy-arctique&show_icons=true&locale=en&layout=compact" alt="cy-arctique" /></p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cy-arctique&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cy-arctique&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cy-arctique&show_icons=true&locale=en" alt="cy-arctique" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cy-arctique&" alt="cy-arctique" /></p>
