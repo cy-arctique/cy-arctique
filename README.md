@@ -22,4 +22,4 @@
   
 </div>
 
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Arctique
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Courgette&size=24&pause=1000&color=DC4CFF&center=true&vCenter=true&random=true&width=435&lines=Arctique
