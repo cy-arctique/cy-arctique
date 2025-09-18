@@ -16,7 +16,7 @@
     
   </p>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cy-arctique&show_icons=true&theme=radical)
+  <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cy-arctique&show_icons=true&theme=radical) -->
 
   ![](https://img.shields.io/badge/现代-攻城狮-red) 
   
