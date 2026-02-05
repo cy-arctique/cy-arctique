@@ -9,6 +9,7 @@
     <!-- https://devicon.dev/ -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="40" height="40" /> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" alt="cpp" width="40" height="40" />
+    <img src="https://github.com/odin-lang/Odin/blob/master/misc/logo-slim.png?raw=true" alt="odin" width="60", height="80">
     <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="rust" width="40" height="40" />  -->
     <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg" alt="zig" width="40" height="40" /> -->
 <!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /> -->     
