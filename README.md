@@ -10,7 +10,7 @@
     <tr>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/></td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/></td>
-      <td><img src="https://github.com/ccnuu/explore_ada/blob/main/img/ada-logo.svg?raw=true" width="40" height="40"/></td>
+      <td><img src="https://github.com/ccnuu/explore_ada/blob/main/img/ada_logo.svg?raw=true" width="40" height="40"/></td>
     </tr>
   </table>
 
